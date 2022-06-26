@@ -17,3 +17,13 @@
 <br />
 
 ##### THIS IS SUBJECT TO CHANGE.
+
+
+## What I'm working on
+* Picking Color scheme.
+* Skills design.
+
+## To Do
+* TimeLine
+* Projects
+* Deploy
