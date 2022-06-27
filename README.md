@@ -53,6 +53,7 @@
 * Improve color contrast in Skills
 
 ## To Do
+* Navigation Bar
 * TimeLine
 * Projects
 * Deploy
