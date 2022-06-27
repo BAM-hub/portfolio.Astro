@@ -38,3 +38,4 @@
 * TimeLine
 * Projects
 * Deploy
+* Get uniform Icons
