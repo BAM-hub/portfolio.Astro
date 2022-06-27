@@ -51,6 +51,7 @@
 * Picking Color scheme.
 * Skills design.
 * Improve color contrast in Skills
+* Improve Skills Layout
 
 ## To Do
 * Navigation Bar
