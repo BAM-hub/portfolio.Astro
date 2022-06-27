@@ -1,6 +1,8 @@
 ## New Portfolio Design Working Progress.
 
 ### INITIAL DESIGN
+##### THIS IS SUBJECT TO CHANGE.
+
 ### HERO
 ![HERO](https://user-images.githubusercontent.com/78625404/175797732-b73cd0a7-e85e-48b7-a91a-3df4c11378d4.png)
 
@@ -16,7 +18,13 @@
 
 <br />
 
-##### THIS IS SUBJECT TO CHANGE.
+### Skills redesign
+![my skills redo](https://user-images.githubusercontent.com/78625404/175847163-11ba9788-ce3a-4fed-b064-0414ed9193ca.png)
+
+<br />
+
+
+
 
 
 ## What I'm working on
