@@ -1,5 +1,15 @@
 ## New Portfolio Design Working Progress.
 
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Dark Background | ![#575151](https://via.placeholder.com/15/575151/575151.png) `#575151`|
+| Light Background | ![#F5EDED](https://via.placeholder.com/15/F5EDED/F5EDED.png) `#F5EDED`|
+
+
+
+
 ### INITIAL DESIGN
 ##### THIS IS SUBJECT TO CHANGE.
 
