@@ -6,9 +6,17 @@
 | ----------------- | ------------------------------------------------------------------ |
 | Dark Background | ![#575151](https://via.placeholder.com/15/575151/575151.png) `#575151`|
 | Light Background | ![#F5EDED](https://via.placeholder.com/15/F5EDED/F5EDED.png) `#F5EDED`|
+| White Background | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `#FFFFFF`|
+| Nutral color | ![#ECD5D2](https://via.placeholder.com/15/ECD5D2/ECD5D2.png) `#ECD5D2`|
+| Nutral color | ![#E3AEA6](https://via.placeholder.com/15/E3AEA6/E3AEA6.png) `#E3AEA6`|
+| Dark theme color | ![#E7B3B3](https://via.placeholder.com/15/E7B3B3/E7B3B3.png) `#E7B3B3`|
+| Dark theme color | ![#FEB062](https://via.placeholder.com/15/FEB062/FEB062.png) `#FEB062`|
+| Light theme contrast color | ![#3E3636](https://via.placeholder.com/15/3E3636/3E3636.png) `#3E3636`|
+| Light theme contrast color | ![#000000](https://via.placeholder.com/15/000000/000000.png) `#000000`|
+| Light theme contrast color | ![#D72323](https://via.placeholder.com/15/D72323/D72323.png) `#D72323`|
 
 
-
+<br />
 
 ### INITIAL DESIGN
 ##### THIS IS SUBJECT TO CHANGE.
