@@ -21,6 +21,11 @@
 ### INITIAL DESIGN
 ##### THIS IS SUBJECT TO CHANGE.
 
+### Overview
+![overview v1](https://user-images.githubusercontent.com/78625404/176080417-1bd252f3-d2bd-4c0f-abd8-455cfe23ee8f.png)
+
+<br />
+
 ### HERO
 ![HERO](https://user-images.githubusercontent.com/78625404/175797732-b73cd0a7-e85e-48b7-a91a-3df4c11378d4.png)
 
@@ -59,6 +64,7 @@
 ### Timeline Color
 ![timelien color](https://user-images.githubusercontent.com/78625404/176080287-7f1df702-39c0-48d5-83c2-cb7a08a99ee8.png)
 
+<br />
 
 ## What I'm working on
 * Picking Color scheme.
