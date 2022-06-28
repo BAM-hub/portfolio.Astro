@@ -51,6 +51,15 @@
 ![skills v2](https://user-images.githubusercontent.com/78625404/176071153-abec0b80-20c8-4239-b950-3a875fd157fe.png)
 <br />
 
+### Timline layout
+![timline layout](https://user-images.githubusercontent.com/78625404/176080192-2fda9fbc-d532-4db1-b45a-b0aca8fcd56c.png)
+
+<br />
+
+### Timeline Color
+![timelien color](https://user-images.githubusercontent.com/78625404/176080287-7f1df702-39c0-48d5-83c2-cb7a08a99ee8.png)
+
+
 ## What I'm working on
 * Picking Color scheme.
 * Skills design.
