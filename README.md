@@ -71,6 +71,7 @@
 * Skills design.
 * Improve color contrast in Skills
 * Improve Skills Layout
+* Improve Whitespace
 
 ## To Do
 * Navigation Bar
