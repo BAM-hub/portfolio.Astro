@@ -47,6 +47,10 @@
 <br />
 
 
+### Skils Tewaks
+![skills v2](https://user-images.githubusercontent.com/78625404/176071153-abec0b80-20c8-4239-b950-3a875fd157fe.png)
+<br />
+
 ## What I'm working on
 * Picking Color scheme.
 * Skills design.
