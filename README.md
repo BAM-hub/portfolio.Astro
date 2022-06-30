@@ -47,10 +47,10 @@
 
 <br />
 
-### Skills Iintial colors
+<!-- ### Skills Iintial colors
 ![Skills Color](https://user-images.githubusercontent.com/78625404/175847370-1dd2f597-895d-4a08-a8de-f566e164865f.png)
 
-<br />
+<br /> -->
 
 
 ### Skils Tweaks
