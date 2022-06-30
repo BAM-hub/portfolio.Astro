@@ -58,7 +58,8 @@
 <br />
 
 ### Timline layout
-![timline layout](https://user-images.githubusercontent.com/78625404/176080192-2fda9fbc-d532-4db1-b45a-b0aca8fcd56c.png)
+![timline redo](https://user-images.githubusercontent.com/78625404/176594420-424f61fc-8e1c-4228-b079-91db2fbb195e.png)
+
 
 <br />
 
