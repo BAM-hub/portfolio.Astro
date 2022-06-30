@@ -72,8 +72,8 @@
 ## What I'm working on
 * Picking Color scheme.
 * Skills design.
-* Improve color contrast in Skills
-* Improve Skills Layout
+* Improve color contrast
+* Improve Layout
 * Improve Whitespace
 
 ## To Do
