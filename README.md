@@ -64,7 +64,8 @@
 <br />
 
 ### Timeline Color
-![timelien color](https://user-images.githubusercontent.com/78625404/176080287-7f1df702-39c0-48d5-83c2-cb7a08a99ee8.png)
+![timeline color](https://user-images.githubusercontent.com/78625404/176594457-4b330d3b-1214-4b55-ade0-4a3a1a4951e8.png)
+
 
 <br />
 
