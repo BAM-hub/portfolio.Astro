@@ -22,7 +22,7 @@
 ##### THIS IS SUBJECT TO CHANGE.
 
 ### Overview
-![overview v1 2](https://user-images.githubusercontent.com/78625404/176594367-36ed551d-3634-4796-88e3-9a1d2ee02a68.png)
+![porfolio overview](https://user-images.githubusercontent.com/78625404/178049015-6cf5984e-7977-45c5-92d5-99be552c344d.png)
 
 
 <br />
@@ -34,11 +34,6 @@
 
 ### INITIAL COLORS
 ![hero-color](https://user-images.githubusercontent.com/78625404/175824975-3344bc43-b895-4156-bb1c-7115a8212aeb.png)
-
-<br />
-
-### SKILLS
-![SKILLS](https://user-images.githubusercontent.com/78625404/175797768-f7c2fe94-a36f-45ff-8466-1d76a09f1741.png)
 
 <br />
 
@@ -66,19 +61,25 @@
 ### Timeline Color
 ![timeline color](https://user-images.githubusercontent.com/78625404/176594457-4b330d3b-1214-4b55-ade0-4a3a1a4951e8.png)
 
+<br />
+
+### Projects
+![projects](https://user-images.githubusercontent.com/78625404/178049246-860c8aec-0b32-4583-b38d-469f9ea5c0d8.png)
+
+<br />
+
+### Projects Color
+![projects color](https://user-images.githubusercontent.com/78625404/178049299-0aa320d8-d79a-4c7f-9025-0240466aa13a.png)
 
 <br />
 
 ## What I'm working on
-* Picking Color scheme.
-* Skills design.
-* Improve color contrast
-* Improve Layout
-* Improve Whitespace
+* Tweaking Color scheme.
+* Improve color contrast.
+* Improve Layout.
+* Improve Whitespace.
 
 ## To Do
 * Navigation Bar
-* TimeLine
-* Projects
 * Deploy
 * Get uniform Icons
